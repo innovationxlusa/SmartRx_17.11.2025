@@ -1,0 +1,14 @@
+{
+  "workspace": {
+    "id": "ff5611ce-f9e2-4f6f-8508-93e6235d92e5"
+  },
+  "entities": {
+    "collections": [
+      "..\\postman\\collections\\SmartRx-Backend-API Authenticated.postman_collection.json"
+    ],
+    "environments": [],
+    "specs": [],
+    "flows": [],
+    "globals": []
+  }
+}
